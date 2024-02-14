@@ -1,0 +1,6 @@
+node_modules
+.env
+.DS_Store
+
+# System specific files
+.DS_Store
